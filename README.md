@@ -1,5 +1,3 @@
-# AI-ML Assignment – 6
-
 # Weather Condition Classification using Support Vector Machine (SVM) and Open-Meteo API
 
 ## Student Details
