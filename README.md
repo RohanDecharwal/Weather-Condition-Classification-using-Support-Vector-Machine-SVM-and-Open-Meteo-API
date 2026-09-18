@@ -89,8 +89,8 @@ This project demonstrates the application of the Support Vector Machine (SVM) al
 ## Repository Structure
 
 ```
-Assignment-6/
-│── Assignment_6.ipynb
+Weather Condition Classification using Support Vector Machine (SVM) and Open-Meteo API/
+│── Weather Condition Classification using Support Vector Machine (SVM) and Open-Meteo API.ipynb
 │── README.md
 ```
 
